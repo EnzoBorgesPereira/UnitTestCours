@@ -19,6 +19,7 @@
       "packagesPath": "/Users/enzoborges/.nuget/packages/",
       "outputPath": "/Users/enzoborges/Desktop/ESGI/3AL/S1/tests unitaires et logiciels/UnitTestCours/UnitTestCours/obj/",
       "projectStyle": "PackageReference",
+      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
         "/Users/enzoborges/.nuget/NuGet/NuGet.Config"
       ],
