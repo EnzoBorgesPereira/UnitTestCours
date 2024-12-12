@@ -9,5 +9,3 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = UnitTestCours
 build_property.ProjectDir = /Users/enzoborges/Desktop/ESGI/3AL/S1/tests unitaires et logiciels/UnitTestCours/UnitTestCours/
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
